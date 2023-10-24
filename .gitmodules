@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "MLEce"]
 	path = MLEce
-	url = https://github.com/cran/MLEce
+	url = https://github.com/ijun2018/mlece
